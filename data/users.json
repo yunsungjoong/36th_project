@@ -1,0 +1,7 @@
+{
+    "users" : [
+        { "userID" : "John Doe", "password" : "#4123asd" },
+        { "userID" : "Jane Smith", "password" : "#54321qwe" },
+        { "userID" : "Bob Johnson", "password" : "#98765zxc" }
+    ]
+}
